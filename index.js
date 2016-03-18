@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './modules/App'
+<<<<<<< HEAD
 import { Router, Route, hashHistory } from 'react-router'
 import About from './modules/About'
 import Repos from './modules/Repos'
