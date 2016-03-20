@@ -4,7 +4,10 @@ import ReactDOM from 'react-dom'
 export default React.createClass({
   render() {
     return (
-      <div>About for About</div>
+      <div>
+      	<h2>{this.props.params.repoName}</h2>    	
+      </div>
     );
   }
 });
+

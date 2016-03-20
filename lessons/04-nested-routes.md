@@ -82,9 +82,7 @@ Next, render children inside of `App`
           <li><Link to="/about">About</Link></li>
           <li><Link to="/repos">Repos</Link></li>
         </ul>
-
         {/* add the chldren here */}
-        
 
       </div>
     )
