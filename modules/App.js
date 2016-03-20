@@ -1,5 +1,7 @@
-import React from 'react'
+import ReactDOM from 'react-dom'
 import {Link} from 'react-router'
+import About from './About'
+import Repos from './Repos'
 
 export default React.createClass({
   render() {
